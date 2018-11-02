@@ -1,9 +1,8 @@
 // 'use strict';
 //  config ****************************************************************
+
 const API_KEY = 'API:a061f949-a97b-4a19-be50-20e1d197a277'
-// const ECRION_XML = require('./test-xml.js');
-// const EPR_PATH_AND_FILE = "compprof/CompetentieProfiel-V01.epr"
-// const PDF_PATH = ' .'
+
 //************************************************************************ */
 
 const fs = require('file-system');
@@ -23,9 +22,6 @@ const logger = log4js.getLogger('writefile');
 // logger.warn('warn level.');
 // logger.error('error level.');
 // logger.fatal('fatal level.');
-
-
-// *************** PROCESS COMMAND LINE ARGUMENTSW
 
 const pdfSave = (xmlPathAndFileJS, eprPathAndFile, pdfPathAndFile) => {
 
@@ -77,6 +73,8 @@ const pdfSave = (xmlPathAndFileJS, eprPathAndFile, pdfPathAndFile) => {
                 logger.info(errorMsg)
         })
 }
+
+// EXECUTION
 
 if (process.argv.length === 5) {
     console.log("1 -> ", process.argv[2])

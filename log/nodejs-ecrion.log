@@ -6,3 +6,9 @@
 [2018-11-02T21:25:09.446] [INFO] writefile - xml is  ./xml/test-xml.js
 [2018-11-02T21:25:09.448] [INFO] writefile - epr is  compprof/CompetentieProfiel-V01.epr
 [2018-11-02T21:25:17.024] [INFO] writefile - file ./pdf/pietje.pdf is saved at Fri, Nov 2, 2018 9:25 PM
+[2018-11-02T21:42:40.182] [INFO] writefile - xml is  ./xml/test-xml.js
+[2018-11-02T21:42:40.184] [INFO] writefile - epr is  compprof/CompetentieProfiel-V01.epr
+[2018-11-02T21:42:48.870] [INFO] writefile - file ./pdf/kandidaat.pdf is saved at Fri, Nov 2, 2018 9:42 PM
+[2018-11-02T21:43:00.145] [INFO] writefile - xml is  ./xml/test-xml.js
+[2018-11-02T21:43:00.148] [INFO] writefile - epr is  compprof/CompetentieProfiel-V01.epr
+[2018-11-02T21:43:09.989] [INFO] writefile - file ./pdf/kandidaat.pdf is saved at Fri, Nov 2, 2018 9:43 PM
