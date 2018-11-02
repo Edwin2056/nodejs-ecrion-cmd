@@ -1,6 +1,6 @@
 # nodejs-ecrion-cmd
 
-parameters
+arguments
 
 - path and filename of xml.js file
 - path and filename of epr profile
